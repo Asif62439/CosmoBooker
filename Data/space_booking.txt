@@ -1,0 +1,20 @@
+Name: 
+Age: 
+Trip: Mars Colony | Time: 6 Months | Price: $500000.0
+----------------------------
+Name: 
+Age: 
+Trip: Mars Colony | Time: 6 Months | Price: $500000.0
+----------------------------
+Destination: Low Earth Orbit
+Ticket Class: Luxury
+-----------------------------
+Destination: Low Earth Orbit
+Ticket Class: Luxury
+-----------------------------
+Destination: Low Earth Orbit
+Ticket Class: Standard
+-----------------------------
+Destination: Low Earth Orbit
+Ticket Class: Standard
+-----------------------------
